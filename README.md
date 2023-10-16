@@ -1,5 +1,9 @@
 # Secure Konza : A Cybersecurity Framework for Smart Cities
 Secure Konza: Building Cyber Resilience in Smart Cities
+
+# How to Read
+- To Read the framework open SECURE_KONZA__A_CYBERSECURITY_FRAMEWORK_FOR_SMART_CITIES.pdf
+- This framework is opensource and to contribute to the framework for updates and changes fork and make changes on main.tex and securekonza.bib
 ## Inspiration
 
 Our project, "Secure Konza - A Cybersecurity Framework for Smart Cities," is more than just a cybersecurity initiative. It's a beacon of hope, a testament to the potential of technology, and a symbol of empowerment for millions of youths as we transition into the digital age of AI and other technological advancements.
